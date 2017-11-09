@@ -1,0 +1,10 @@
+.dea
+.DS_Store
+.Trashes
+Thumbs.db
+dist
+MANIFEST
+.project
+*.xml
+*.iml
+__pycache__
