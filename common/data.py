@@ -5,4 +5,3 @@ JSONS = [{'name':'wang', 'age': 25}, {'name':'xu', 'age': 23}, {'name':'zhao', '
 WORDS = ['book', 'apple', 'water', 'dog', 'book', 'apple', 'book']
 LINES = 'abc,def;pw qa'
 NAMES = ['wang', 'zhao', 'zhang', 'chen']
-
