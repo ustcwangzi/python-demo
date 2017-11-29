@@ -8,3 +8,4 @@ LINES = 'abc,12,86,python,def;99;Python;pw qa'
 DATES = '11/18/2017'
 TEXTS = '  Today is 11/18/2017, We will start at 11/20/2017 '
 NAMES = ['wang', 'zhao', 'zhang', 'chen', 'xu', 'yang']
+ITEMS = ['a', 'b', 'c', 1, 4, 10, 15]
